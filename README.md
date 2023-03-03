@@ -1,2 +1,5 @@
 # Nima-Shadkam
-I 'm .Net &amp; React Developer 
+
+Hi, I’m Nima Shadkam 👋
+I'm .Net & React Developer 💻
+How to reach me: nima.shadkam@gmail.com 📫

@@ -2,4 +2,4 @@
 
 Hi, I’m Nima Shadkam 👋.
 I'm .Net & React Developer 💻.
-How to reach me: nima.shadkam@gmail.com 📫.
+How to reach me: nima.shadkam@gmail.com 📫. 

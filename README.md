@@ -1,4 +1,4 @@
-# Nima-Shadkam
+# Nima Shadkam
 
 Hi, I’m Nima Shadkam 👋
 

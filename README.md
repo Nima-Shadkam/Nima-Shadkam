@@ -52,6 +52,4 @@ I specialize in creating **responsive websites** and **interactive programs**, w
 ---
 
 <!-- Optionally add a cool GitHub profile view counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nima-shadkam&style=flat-square&color=blue" alt="Profile views" />
-</p>
+

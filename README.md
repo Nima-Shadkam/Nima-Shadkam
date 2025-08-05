@@ -1,8 +1,7 @@
 # Nima Shadkam
 
 Hi, I’m Nima Shadkam 👋  
-I’m a **.Net & React Developer** with more than **7 years of work experience** in the development, design, and implementation of various organizational software.  
-I specialize in creating **responsive websites** and **interactive programs**, with a strong focus on **problem-solving** and **team collaboration**. 🚀
+I’m a **.Net & React Developer** with more than **7 years of work experience** in the development, design, and implementation of various organizational software. I specialize in creating **responsive websites** and **interactive programs**, with a strong focus on **problem-solving** and **team collaboration**. 🚀
 
 ---
 

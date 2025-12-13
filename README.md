@@ -25,8 +25,7 @@ I’m a **.Net & React Developer** with more than **7 years of work experience**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-shadkam&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-shadkam&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=nima-shadkam&theme=radical&cache_seconds=86400" width="400"/>
 </p>
 
 

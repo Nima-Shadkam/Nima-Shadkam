@@ -23,7 +23,7 @@ I’m a **.Net & React Developer** with more than **7 years of work experience**
 ---
 
 
-<!-- <p align="center">
+<p align="center">
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-shadkam&theme=radical" width="48%" />
@@ -31,7 +31,7 @@ I’m a **.Net & React Developer** with more than **7 years of work experience**
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-shadkam&theme=radical" width="48%" />
     ---
 
-</p> -->
+</p> 
 
 
 
@@ -47,7 +47,8 @@ I’m a **.Net & React Developer** with more than **7 years of work experience**
 ## 🚀 About Me
 
 - 🔭 I’m currently working as a **.NET Full Stack Developer**
-- 🌱 Currently learning more about **Microservices** and **Cloud Development**
+- 🔭 Also currently working as a **React Developer**
+- 🌱 Currently learning more about **Microservices** and **Devops**
 - 👯 I’m open to collaborate on **enterprise-grade web applications**
 - ⚡ Fun fact: I love **problem-solving**, and I’m a **code quality enthusiast**
 
